@@ -16,7 +16,7 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
-#Developed by: Paulsamson S 
+#Developed by: Paulsamson S
 #RegisterNumber: 212222230104
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
@@ -25,7 +25,7 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-![image](https://github.com/PaulsamsonS22000727/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/119643845/6610c096-f3a4-4993-b624-983554a38512)
+![image](https://github.com/PaulsamsonS212222230104/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/119643845/6610c096-f3a4-4993-b624-983554a38512)
 
 
 
